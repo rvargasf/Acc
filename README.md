@@ -1,4 +1,4 @@
-# Automation Practice
+# ServeRest
 ## Projeto de automação de testes
 
 
