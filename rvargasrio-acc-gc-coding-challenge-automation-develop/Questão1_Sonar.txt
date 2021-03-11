@@ -1,0 +1,14 @@
+1.	Bugs
+a.	Corrigir erros detectados
+b.	Atualizar/Criar testes unitários para a funcionalidade;
+c.	Publicar correções em branch para testes QA.
+
+2.	Vulnerabilidade
+a.	Corrigir brechas detectadas
+
+3.	Code Smell
+a.	Refatorar código;
+b.	Revisar padrões de programação adotados na última publicação.
+
+4.	Cobertura
+a.	Aumentar cobertura de testes unitários priorizando métodos/funções mais demandadas.

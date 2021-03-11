@@ -1,0 +1,17 @@
+
+Inconformidades (Visão geral)
+1.	Título não localizado por acentuação inconsistente;
+2.	Ícone ‘Netflix’ exibido em duplicidade para resultado ‘O poderoso Chefão’
+3.	Ícone ‘Prime Vídeo’ exibido em duplicidade para resultado ‘Dil Bechara’;
+4.	Ícones de stream não possui ordem de exibição padronizada;
+
+
+
+Título: Busca não encontra títulos com acentuação imprecisa
+Descrição: Ao informar um título no campo de busca é observada imprecisão no reconhecimento de acentuação, resultando na não localização precisa de um título, como o evidenciado ‘O poderoso chefao.’
+Passos para reproduzir:
+1.	Acessar app [];
+2.	Acessar tela de Busca;
+3.	Informar título ‘O poderoso chefao’ sem a devida acentuação;
+4.	Observar resultado não encontrado, mas sugerido como relevante.
+Requisito: []
